@@ -1,0 +1,8 @@
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\multiplicationTable\bin\HPD\Debug\netcoreapp1.1\multiplicationTable.deps.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\multiplicationTable\bin\HPD\Debug\netcoreapp1.1\multiplicationTable.runtimeconfig.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\multiplicationTable\bin\HPD\Debug\netcoreapp1.1\multiplicationTable.runtimeconfig.dev.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\multiplicationTable\bin\HPD\Debug\netcoreapp1.1\multiplicationTable.dll
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\multiplicationTable\bin\HPD\Debug\netcoreapp1.1\multiplicationTable.pdb
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\multiplicationTable\obj\HPD\Debug\netcoreapp1.1\multiplicationTable.AssemblyInfo.cs
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\multiplicationTable\obj\HPD\Debug\netcoreapp1.1\multiplicationTable.dll
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\multiplicationTable\obj\HPD\Debug\netcoreapp1.1\multiplicationTable.pdb
