@@ -18,7 +18,10 @@ namespace multiplicationTable
             {
                 for(col=1;col<=n;col++){
                     Console.Write(row*col);
-                    if(col<5){
+                    if(col<n){
+                        Console.Write(" ");
+                    }
+                    if((row*col)<10){
                         Console.Write(" ");
                     }
                 }
